@@ -1,0 +1,30 @@
+table{
+    width: 600px;
+    font-family: 'Trebuchet', Helvetica, sans-serif;
+    font-size: 15px;
+    border-collapse: collapse;
+}
+
+.inicio th{
+    border-top:1px solid rgba(128, 128, 128, 0.541);
+    border-bottom: 1px solid black;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+th{
+    text-align: left;
+    padding: 7px;
+}
+
+.preco{
+    text-align: right;
+}
+
+.alternar{
+    background: hsla(240, 48%, 71%, 0.267);
+}
+
+tr:hover{
+    background: hsla(240, 59%, 51%, 0.719);
+}

@@ -1,0 +1,1 @@
+Tabela criada com a intenção de manter um modelo pronto acessível de forma rápida para o caso de ser necesario o uso futuramente.
